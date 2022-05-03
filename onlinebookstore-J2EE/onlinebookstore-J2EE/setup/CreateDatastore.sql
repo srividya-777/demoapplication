@@ -1,6 +1,7 @@
 CREATE DATABASE onlinebookstore;
 
-\c onlinebookstore
+\c onlinebookstore welcomes you
+
 
 CREATE TABLE books 
   ( 
